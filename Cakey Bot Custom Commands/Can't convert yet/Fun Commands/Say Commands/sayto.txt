@@ -1,0 +1,7 @@
+No way of getting this to work
+
+
+
+{delete}
+{respond:#$1.channel.name}
+$2+

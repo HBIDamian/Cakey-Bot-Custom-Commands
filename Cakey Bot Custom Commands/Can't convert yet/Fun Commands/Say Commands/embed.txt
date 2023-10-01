@@ -1,0 +1,5 @@
+There is no basic Announce embed 
+
+
+{delete}
+{!announce {channel} $1+}

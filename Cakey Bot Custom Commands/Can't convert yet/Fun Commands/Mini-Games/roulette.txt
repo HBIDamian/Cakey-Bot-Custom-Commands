@@ -1,0 +1,7 @@
+can't run commands in this fashion
+
+
+{delete}
+{choose:mute; to live; to live; to live; to live;to live}
+{user} got {choice}!
+{!{choice} {user} 3 you lost the roulette.}
