@@ -23,6 +23,7 @@ These commands can't be converted yet because they use a feature that Cakey Bot 
   - `me` - Requires being able to run bot commands.
   - `scholar` - Requires being able to add/remove roles
   - `todo` - Requires being able to send embeds (announce)
+- Verification Commands -  Requires being able to add/remove roles
 
   
 
